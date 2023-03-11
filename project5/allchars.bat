@@ -1,0 +1,3 @@
+cd hashcat-6.2.6/
+hashcat.exe -m 500 --username -O -a 3 -i -o ../cracked.txt ../nie.e@northeastern.edu.shadow "?d?d?d?d?d?d?d?d?d?d?d?d?d?d?d?d"
+pause
