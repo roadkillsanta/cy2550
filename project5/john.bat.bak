@@ -1,1 +1,0 @@
-john --incremental=ASCII --fork=3 <path to the shadow file>
